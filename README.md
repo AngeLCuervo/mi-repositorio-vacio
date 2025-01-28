@@ -22,3 +22,6 @@ Después de usar git add, para registrar formalmente los cambios en el historial
 Ejemplo de uso:
 Hacer un commit con un mensaje descriptivo:
 git commit -m "Agregados nuevos estilos de pagina"
+
+
+#Nuevo comentario Angel
