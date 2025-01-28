@@ -23,5 +23,9 @@ Ejemplo de uso:
 Hacer un commit con un mensaje descriptivo:
 git commit -m "Agregados nuevos estilos de pagina"
 
+<<<<<<< HEAD
 
 #Nuevo comentario Angel
+=======
+3. Cambio Jeisson
+>>>>>>> 6d43e580ba5a01a00666314e6d380acb1c03ed9f
