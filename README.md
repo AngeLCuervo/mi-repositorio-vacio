@@ -53,7 +53,8 @@
 
 ### 1. Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
 
-#### 
+#### OWNER: Angel
+#### COLLABORATOR : Jeisson
 
 ### 2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
 
@@ -65,27 +66,35 @@
 
 ### 4. El colaborador acepta la invitación al repositorio
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/ba508d22-16d9-48b1-9a01-4d32f0e36470)
+
 
 ### 5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
 
-#### 
-
 ### 6. ¿Que sucedió?
 
-#### 
+####  ![image](https://github.com/user-attachments/assets/a9a7ec75-406d-4176-bc65-3bb85dc03414)
+#### Se subio primero el de Jeisson, a Angel aparecio esto 
+#### ![image](https://github.com/user-attachments/assets/1bca2baf-0bf6-411a-a401-7c3631a9f74e)
+
 
 ### 7. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
-#### 
+####  ![image](https://github.com/user-attachments/assets/43555f60-1e65-4d8b-862f-c70ae0b75dde)
+
 
 ### 8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/204cacf3-ebed-4103-96e4-455e970c3f55)
+#### ![image](https://github.com/user-attachments/assets/9506593f-247d-4a57-8aea-ed29ae3426ba)
+
 
 ### 9. Resuelvan el conflicto con IntelliJ si es posible
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/d0310661-ddc6-4714-938c-01b5fc525de4)
+#### ![image](https://github.com/user-attachments/assets/c4e2d110-1a53-4d26-aee3-08486792d751)
+#### ![image](https://github.com/user-attachments/assets/7ac7ee2e-d2cd-4363-837a-ec845e37bb35)
+
 
 ## PARTE III (Trabajo de a parejas)
 
