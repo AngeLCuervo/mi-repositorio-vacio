@@ -100,7 +100,7 @@
 
 ### 1. ¿Hay una mejor forma de trabajar con git para no tener conflictos?
 
-#### 
+#### Asegurarse  de  que la rama está actualizada con la rama principal, hacer rebase haz un rebase en lugar de un merge para mantener un historial limpio.Si hay cambios en la rama principal después de que comenzaste tu trabajo. Realizar pequeños commit con una descripcion clara, guardar enl trabajo con stash por si vas a otra rama
 
 ### 2. ¿Qué es y como funciona el Pull Request?
 
