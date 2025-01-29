@@ -104,7 +104,9 @@
 
 ### 2. ¿Qué es y como funciona el Pull Request?
 
-#### 
+#### Cómo funciona un Pull Request
+##### Un Pull Request (PR) es una funcionalidad clave en sistemas de control de versiones distribuidos como Git que permite a los desarrolladores proponer cambios en el código fuente de un proyecto para su revisión, discusión e integración.
+
 
 ### 3. Creen una rama cada uno y suban sus cambios
 
@@ -117,3 +119,5 @@
 ### 5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
 
 #### 
+
+  
