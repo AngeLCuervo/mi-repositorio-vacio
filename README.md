@@ -110,14 +110,17 @@
 
 ### 3. Creen una rama cada uno y suban sus cambios
 
-#### 
+####  ![image](https://github.com/user-attachments/assets/49680140-fe63-4541-a0a4-6ada80c5758b)
+
 
 ### 4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
 
-#### 
+####  ![image](https://github.com/user-attachments/assets/75b63ed1-9a08-451e-909d-f95a45d0ab30)
+
 
 ### 5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
 
-#### 
+####  ![image](https://github.com/user-attachments/assets/f37e53ad-a21a-4ca3-a8da-d3a490e500fc)
+
 
   
