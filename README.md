@@ -11,7 +11,8 @@
 
 ### 1. Crea un repositorio localmente.
 
-#### ![image](https://github.com/user-attachments/assets/34798b18-6a31-4ad0-9efb-173af232a5bd)
+####![image](https://github.com/user-attachments/assets/c29c83fe-d70b-49cb-887d-695ca76529ac)
+
 
 
 ### 2. Agrega un archivo de ejemplo al repositorio, el README.md puede ser una gran opción.
@@ -64,6 +65,8 @@ Por ultimo:Hacemos un commit para guardar los cambios en el repositorio
 
 #### ![image](https://github.com/user-attachments/assets/b7032166-db3c-42c9-92bf-962788bffc16)
 ![image](https://github.com/user-attachments/assets/10253f7e-f1ea-4826-b57e-1761e9a43f4c)
+![image](https://github.com/user-attachments/assets/e22b2c97-33a6-42fc-9601-974aaa0bdfaf)
+
 
 
 
@@ -73,15 +76,20 @@ Por ultimo:Hacemos un commit para guardar los cambios en el repositorio
   ### git commit -m "mensaje, lo que hiciste con el archivo"
   ### git push "url repositorio"
 
-####   
+####   ![image](https://github.com/user-attachments/assets/db221cd8-4fa7-4209-bf44-e2954ce45627)
+![image](https://github.com/user-attachments/assets/87283867-898b-4985-b610-b0ee86757504)
+
+
 
 ### 8. Configura el correo en git local de manera correcta Configurar correo electrónico en GitHub
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/2803cf71-7251-4bdc-bcb5-710de6f997c7)
+
 
 ### 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/fedc8eca-1b92-4388-9a2e-1ec5f3e38faa)
+
 
 ## PARTE II (Trabajo en parejas)
 
