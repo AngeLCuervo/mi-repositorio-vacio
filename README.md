@@ -11,27 +11,61 @@
 
 ### 1. Crea un repositorio localmente.
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/34798b18-6a31-4ad0-9efb-173af232a5bd)
+
 
 ### 2. Agrega un archivo de ejemplo al repositorio, el README.md puede ser una gran opción.
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/33f6bcbb-6030-4435-a70f-3318c54f0f0c)
+
 
 ### 3. Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
 
-#### 
+#### 1.	git add
+¿Qué hace?
+Este comando agrega cambios (archivos nuevos, modificaciones o eliminaciones) al área de preparación o "staging area".
+Básicamente, es como "decirle" a Git qué cambios quieres incluir en el próximo commit.
+Cuándo se usa:
+Cuando has hecho cambios en tu proyecto y estás listo para guardarlos en el historial de Git.
+Ejemplos de uso
+
+  Agregar archivo especifico: 
+  git add nombre-del-archivo.txt
+
+  Agregar todos los archivos (modificados, nuevos, eliminados):
+  git add .
+
+2.	git commit -m "mensaje"
+¿Qué hace?
+Este comando guarda los cambios preparados (con git add) en el historial del repositorio, creando un "snapshot" del estado actual.
+El mensaje ("mensaje") describe los cambios realizados, para que tú y otros desarrolladores puedan entender qué hiciste.
+Cuándo se usa:
+Después de usar git add, para registrar formalmente los cambios en el historial de versiones.
+Ejemplo de uso:
+Hacer un commit con un mensaje descriptivo:
+git commit -m "Agregados nuevos estilos de pagina"
+
+Primer paso. Modificar el archivo o crear uno nuevo
+Segundo paso: Usamos git add para preparar los cambios
+Por ultimo:Hacemos un commit para guardar los cambios en el repositorio
+
 
 ### 4. Abre una cuenta de github, si ya la tienes, enlazala con el correo institucional.
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/0181c900-9e16-49b5-95aa-b53caeafe63b)
+
 
 ### 5. Crea un repositorio en blanco (vacío) e GitHub.
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/5129806e-bd96-471a-bcef-f0b92cd3a332)
+
 
 ### 6. Configura el repositorio local con el repositorio remoto.
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/b7032166-db3c-42c9-92bf-962788bffc16)
+![image](https://github.com/user-attachments/assets/10253f7e-f1ea-4826-b57e-1761e9a43f4c)
+
+
 
 ### 7. Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3 Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en este orden:
 
